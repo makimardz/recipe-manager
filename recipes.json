@@ -1,0 +1,179 @@
+[
+    {
+      
+      "title": "Chocolate Chip Cookies",
+      "description": "Classic chocolate chip cookies",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1/2 teaspoon baking soda",
+        "1 cup unsalted butter, room temperature",
+        "1/2 cup granulated sugar",
+        "1 cup packed brown sugar",
+        "1 teaspoon salt",
+        "2 teaspoons vanilla extract",
+        "2 large eggs",
+        "2 cups chocolate chips"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "In a small bowl, combine the flour and baking soda. Set aside.",
+        "In a large mixing bowl, cream together the butter, granulated sugar, and brown sugar until light and fluffy.",
+        "Beat in the salt, vanilla extract, and eggs until well combined.",
+        "Gradually add the flour mixture to the butter mixture, mixing until just combined.",
+        "Stir in the chocolate chips.",
+        "Drop rounded tablespoons of dough onto baking sheets, spacing them about 2 inches apart.",
+        "Bake for 9-11 minutes or until golden brown.",
+        "Allow cookies to cool on the baking sheets for a few minutes, then transfer to wire racks to cool completely.",
+        "Enjoy!"
+      ]
+    },
+    {
+      
+      "title": "Margherita Pizza",
+      "description": "Traditional Italian pizza topped with fresh basil and mozzarella",
+      "ingredients": [
+        "1 pizza dough",
+        "1/2 cup pizza sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 cup fresh basil leaves",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 450°F (230°C).",
+        "Roll out the pizza dough into a round shape on a floured surface.",
+        "Transfer the dough to a baking sheet or pizza stone.",
+        "Spread the pizza sauce evenly over the dough, leaving a small border around the edges.",
+        "Sprinkle the shredded mozzarella cheese over the sauce.",
+        "Tear the fresh basil leaves into small pieces and distribute them over the cheese.",
+        "Drizzle the olive oil over the pizza.",
+        "Season with salt and pepper to taste.",
+        "Bake for 12-15 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+        "Remove from the oven and let it cool for a few minutes before slicing and serving."
+      ]
+    },
+    {
+        
+        "title": "Spaghetti Bolognese",
+        "description": "Classic Italian pasta dish with meat sauce",
+        "ingredients": [
+          "8 oz spaghetti",
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 can (14 oz) diced tomatoes",
+          "1 can (6 oz) tomato paste",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "Salt and pepper to taste",
+          "Grated Parmesan cheese, for serving"
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions. Drain and set aside.",
+          "In a large skillet, cook the ground beef over medium heat until browned. Drain excess fat.",
+          "Add the chopped onion and minced garlic to the skillet. Cook until the onion is translucent.",
+          "Stir in the diced tomatoes, tomato paste, dried oregano, dried basil, salt, and pepper.",
+          "Simmer the sauce for about 20 minutes, stirring occasionally.",
+          "Serve the sauce over the cooked spaghetti.",
+          "Sprinkle with grated Parmesan cheese before serving."
+        ]
+      },
+      {
+        
+        "title": "Chicken Stir-Fry",
+        "description": "Quick and flavorful stir-fried chicken with vegetables",
+        "ingredients": [
+          "2 boneless, skinless chicken breasts, sliced",
+          "2 tablespoons soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 tablespoon cornstarch",
+          "2 tablespoons vegetable oil",
+          "1 bell pepper, sliced",
+          "1 carrot, sliced",
+          "1 small onion, sliced",
+          "2 cloves garlic, minced",
+          "1 teaspoon grated ginger",
+          "Salt and pepper to taste",
+          "Cooked rice, for serving"
+        ],
+        "instructions": [
+          "In a bowl, combine the sliced chicken, soy sauce, oyster sauce, and cornstarch. Set aside to marinate for 10 minutes.",
+          "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+          "Add the marinated chicken to the skillet and stir-fry until cooked through. Remove from the skillet and set aside.",
+          "In the same skillet, add the sliced bell pepper, carrot, onion, minced garlic, and grated ginger. Stir-fry until the vegetables are crisp-tender.",
+          "Return the cooked chicken to the skillet and stir to combine with the vegetables. Season with salt and pepper.",
+          "Serve the chicken stir-fry over cooked rice."
+        ]
+      },
+      {
+        
+        "title": "Caprese Salad",
+        "description": "Refreshing salad with tomatoes, mozzarella, and basil",
+        "ingredients": [
+          "2 large tomatoes, sliced",
+          "8 oz fresh mozzarella cheese, sliced",
+          "Fresh basil leaves",
+          "2 tablespoons extra virgin olive oil",
+          "Balsamic glaze, for drizzling",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Arrange the tomato slices and mozzarella slices on a serving platter, alternating between them.",
+          "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+          "Drizzle the extra virgin olive oil over the salad.",
+          "Season with salt and pepper to taste.",
+          "Drizzle balsamic glaze over the salad just before serving."
+        ]
+      },
+      {
+        
+        "title": "Guacamole",
+        "description": "Creamy and flavorful avocado dip",
+        "ingredients": [
+          "2 ripe avocados",
+          "1/4 cup diced red onion",
+          "1/4 cup chopped fresh cilantro",
+          "1 jalapeño pepper, seeded and minced",
+          "Juice of 1 lime",
+          "Salt and pepper to taste",
+          "Tortilla chips, for serving"
+        ],
+        "instructions": [
+          "Cut the avocados in half and remove the pits. Scoop out the flesh into a bowl.",
+          "Mash the avocado with a fork until desired consistency.",
+          "Add the diced red onion, chopped cilantro, minced jalapeño pepper, and lime juice to the bowl. Stir to combine.",
+          "Season with salt and pepper to taste.",
+          "Serve the guacamole with tortilla chips."
+        ]
+      },
+      {
+        
+        "title": "Banana Bread",
+        "description": "Moist and delicious homemade banana bread",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/4 teaspoon salt",
+          "1/2 cup unsalted butter, softened",
+          "1 cup granulated sugar",
+          "2 large eggs",
+          "4 ripe bananas, mashed",
+          "1/4 cup milk",
+          "1 teaspoon vanilla extract",
+          "Chopped walnuts or chocolate chips (optional)"
+        ],
+        "instructions": [
+          "Preheat oven to 350°F (175°C). Grease a 9x5-inch loaf pan.",
+          "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside.",
+          "In a large mixing bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+          "Beat in the eggs, mashed bananas, milk, and vanilla extract until well combined.",
+          "Gradually add the dry ingredients to the banana mixture, mixing until just combined. Do not overmix.",
+          "If desired, fold in chopped walnuts or chocolate chips.",
+          "Pour the batter into the prepared loaf pan and smooth the top with a spatula.",
+          "Bake for 60-70 minutes or until a toothpick inserted into the center comes out clean.",
+          "Remove from the oven and let the banana bread cool in the pan for 10 minutes.",
+          "Transfer the bread to a wire rack to cool completely before slicing."
+        ]
+      }
+  ]
+  
